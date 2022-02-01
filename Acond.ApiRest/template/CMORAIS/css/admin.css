@@ -1,0 +1,50 @@
+.quebra {page-break-after: always}
+body 		{background-color: #FFFFFF; margin : 1-0 0;}
+.body_msg 	{background-color: #FFFFFF; margin : 0-0 0;}
+table		{border-collapse:collapse; } 
+#relatorio	{width:720;} 
+.t_s {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #000000; font-weight: bold;text-decoration: none;
+padding-left: 5px; height:25;
+border-right-width: 1px;border-right-style: solid;border-right-color: #000000;
+border-left-width: 1px;border-left-style: solid;border-left-color: #000000;
+border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #000000;}
+.t_1s {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #000000; font-weight: bold;text-decoration: none;
+border-top-width: 1px;border-top-style: solid;border-top-color: #000000;
+padding-left: 5px; height:25;background-color: #CCC;text-align: center;
+border-right-width: 1px;border-right-style: solid;border-right-color: #000000;
+border-left-width: 1px;border-left-style: solid;border-left-color: #000000;
+border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #000000;}
+.t_s1 {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #000000;font-weight: bold;text-decoration: none;text-align: center;background-color: #CCC;
+border-right-width: 1px;border-right-style: solid;border-right-color: #000000;
+border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #000000;}
+.r_r		{font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #000000; height:15; text-decoration: none;text-align: center;
+border-left-width: 1px;border-left-style: solid;border-left-color: #000000;
+border-right-width: 1px;border-right-style: solid;border-right-color: #000000;}
+.r_r_ve {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #000000; height:15; text-decoration: none;text-align: left;
+border-left-width: 1px;border-left-style: solid;border-left-color: #000000;
+border-right-width: 1px;border-right-style: solid;border-right-color: #000000;}
+.r_r_v1 {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #000000; height:15;font-weight: bold; text-decoration: none;text-align: left;
+border-left-width: 1px;border-left-style: solid;border-left-color: #000000;
+border-right-width: 1px;border-right-style: solid;border-right-color: #000000;}
+.r_r_vc {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #000000; height:15;font-weight: bold;text-decoration: none;text-align: center;
+border-left-width: 1px;border-left-style: solid;border-left-color: #000000;
+border-right-width: 1px;border-right-style: solid;border-right-color: #000000;}
+.r_r_va {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #000000; height:15; text-decoration: none;text-align: right;
+border-left-width: 1px;border-left-style: solid;border-left-color: #000000;
+border-right-width: 1px;border-right-style: solid;border-right-color: #000000;}
+.r_r_vf {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #000000; height:15; text-decoration: none;text-align: right;
+border-left-width: 1px;border-left-style: solid;border-left-color: #000000;
+border-right-width: 1px;border-right-style: solid;border-right-color: #000000;
+border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #000000;}
+.r_r_v2 {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #000000; height:15;font-weight: bold; text-decoration: none;text-align: right;
+border-left-width: 1px;border-left-style: solid;border-left-color: #000000;
+border-right-width: 1px;border-right-style: solid;border-right-color: #000000;}
+.t_r {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #000000; height:15;font-weight: bold; text-decoration: none; background-color: #CCC;
+border-top-width: 1px;border-top-style: solid;border-top-color: #000000;
+border-left-width: 1px;border-left-style: solid;border-left-color: #000000;
+border-right-width: 1px;border-right-style: solid;border-right-color: #000000;
+border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #000000;}
+.l_f {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #000000; height:15; text-decoration: none;text-align: right;
+border-left-width: 1px;border-left-style: solid;border-left-color: #000000;
+border-right-width: 1px;border-right-style: solid;border-right-color: #000000;
+border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #000000;}

@@ -1,0 +1,185 @@
+.sub {
+	font-family: Tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+}
+.bod {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+.bodp {
+	font-family: "MS Sans Serif";
+	font-size: 10px;
+	color: #000000;
+}
+
+.bodwh {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+}
+
+.sub2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #CC0000;
+}
+A {     
+	font-family: Tahoma;
+	font-size: 9px;
+        Color : #CC3300; font-weight: bold;
+	text-decoration : none;
+}
+A:hover { 
+        font-family: Tahoma;
+	font-size: 9px;
+	Color : #CC3300; font-weight: bold;
+}
+
+.sub3 {
+	font-family: Tahoma;
+	font-size: 20px;
+	font-weight: normal;
+	color: #666666;
+}
+.title {
+	font-family: Tahoma;
+	font-size: 24px;
+	font-style: normal;
+	color: #FF6600;
+	font-weight: bold;
+
+}
+.title2 {
+	color: #C93C4C;
+	font-family: Tahoma;
+	font-size: 24px;
+	font-weight: bold;
+}
+.sub4 {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: #CC3300;
+}
+.sub5 {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}
+a.side {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.side:hover {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+/*  XXXXXXXXXXXXXXXXXXXXXXX ATRIBUTOS RELATÓRIOS  XXXXXXXXXXXXXXXXXXXXXXX */
+/* Título Superior do Relatório */		.t_s 		{font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #55553E;font-weight: bold;text-decoration: none; padding-left: 14px; width:529; height:40}
+/* Título Grande Relatório */			.t_sg 		{font-family: Arial, Helvetica, sans-serif;font-size: 18px;color: #55553E;font-weight: bold;text-decoration: none;}
+/* Título do Relatório*/				.t_r 		{font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #FFFFFF;font-weight: bold;text-decoration: none; background-color:#993333; border-right-width: 1px;border-right-style: solid;border-right-color: #A6A69C; height:27; padding-left:15px; border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #A6A69C;}
+/* Título do Relatório center*/			.t_rc 		{font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #3A3B68;font-weight: bold;text-decoration: none; background-color:#993333; border-right-width: 1px;border-right-style: solid;border-right-color: #A6A69C; height:27; border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #A6A69C; text-align: center;}
+/* Título do Relatório com valor */		.t_r_va 	{font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #FFFFFF;font-weight: bold;text-decoration: none; background-color:#993333; border-right-width: 1px;border-right-style: solid;border-right-color: #A6A69C; height:27; border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #A6A69C;}
+/* Footer do Relatório*/				.f_r 		{font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #FFFFFF;font-weight: bold;text-decoration: none; background-color:#993333; height:27; padding-left:15px; border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #A6A69C;}
+/* Footer do Relatório com valor */		.f_r_va 	{font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #FFFFFF;border-right-width: 1px;border-right-style: solid;border-right-color: #A6A69C;text-decoration: none; background-color:#33CCFF; height:27; padding-right:15px; border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #A6A69C; align:right;}
+/* Resultado do Relatório*/				.r_r 		{font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #3A3B68;text-decoration: none; border-right-width: 1px;border-right-style: solid;border-right-color: #A6A69C; height:27; padding-left:15px; border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #A6A69C;}
+/* Resultado do Relatório com valor*/	.r_r_va 	{font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #3A3B68;text-decoration: none; border-right-width: 1px;border-right-style: solid;border-right-color: #A6A69C; height:27; padding-right:15px; border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #A6A69C; text-align: right;}
+/* Resultado do Relatório da verba*/	.r_r_ve 	{font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #3A3B68;text-decoration: none; border-right-width: 1px;border-right-style: solid;border-right-color: #A6A69C; height:27; padding-left:15px; border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #A6A69C;}
+/* Data do Relatório */					.d_r 		{font-family: Arial, Helvetica, sans-serif;font-size: 20px;color: #55553E;font-weight: bold;text-decoration: none; width:100; height:40; padding-right: 5px;}
+/* Corpo Documento*/					body 		{background-color: #F2F2ED; margin : 1-0 0; topmargin : 0;}
+/* Corpo msg*/							.body_msg 	{background-color: #F2F2ED; margin : 0-0 0;}
+/* Tabelas do Relatório*/				table		{border-collapse:collapse; }
+/* Título das tabelas*/					th	 		{font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #FFFFFF;font-weight: bold;text-decoration: none; background-color:#993333; border-right-width: 1px;border-right-style: solid;border-right-color: #A6A69C; height:27; padding-left:15px; border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #A6A69C;} 
+/* Relatórios*/							#relatorio	{width:790;} 
+/* Cabeçalho Relatório*/				#header		{width:790;}
+/* Resposta Relatório*/					#resposta	{width:790;}
+/* Tabelas da Mensagem*/				#tb_m		{width:150}
+/* Linha separadora tabela*/			.hr			{background-color:#A6A69C; height:1;}
+/* Título da Home*/						.t_h 		{font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #0066CC;font-weight: bold;text-decoration: none;}
+/* Texto da Home*/						.te_h 		{font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #0066CC; text-decoration: none;}
+/* Texto da Home*/						.te_h:hover {font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #0066CC; text-decoration: underline;}
+										.te_h2 		{font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #0066CC; text-decoration: none;}
+/* Padding right 20 Px*/				.pad_r20	{padding-right:20px}
+/* Padding left 20 Px*/					.pad_l20	{padding-left:20px}
+										.l_b 		{font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #3A3B68;text-decoration: none;background-color:#BCCBD8;}
+										.l_b:hover	{font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #3A3B68;text-decoration: underline;}
+/* Título Bairro */						.bairro 	{font-family:Times New Roman, Times, serif;font-size: 14px;font-style: italic;line-height: normal;color: #FFFFFF;font-weight: bold;background-color:#993300 }
+/* data anuncio*/						.te_d 		{font-family: Times News Roman, Times, serif;font-size: 12px;color: #000000;font-weight: bold;text-decoration: none;}
+/* Texto padrao*/						.te			{font-family: Times News Roman, Times, serif;font-size: 12px;color: #000000; text-decoration: none;}
+
+/* barra lateral */
+body{
+    	scrollbar-face-color:#CC0000;		<!-- CORPO -->
+		scrollbar-shadow-color:#FFFFFF;		<!-- SOMBRA -->
+		SCROLLBAR-HIGHLIGHT-COLOR: #FFFFFF; 
+		scrollbar-darkshadow-color:#993300;	<!--CONTORNO -->
+		scrollbar-arrow-color:#993300;
+		scrollbar-3dlight-color:#993300;	<!--CONTORNO BARRA -->
+		scrollbar-track-color:#993300;		<!--FUNDO -->
+	}
+
+.zebra1    {background-color: #F2F2ED;
+            font-family: Times News Roman, Times, serif;
+            font-size: 12px;color: #000000;
+            text-decoration: none;
+            }
+.zebra2    {background-color: #FFFFFF;
+            font-family: Times News Roman, Times, serif;
+            font-size: 12px;color: #000000;
+            text-decoration: none;
+            }
+div.pagination {
+	padding:3px;
+	margin:3px;
+	text-align:center;
+}
+/* css para paginador */
+div.pagination a {
+	padding: 2px 5px 2px 5px;
+	margin-right: 2px;
+	border: 1px solid #ddd;   /*anterior e proximo */
+
+	text-decoration: none;
+	color: #666666;
+}
+div.pagination a:hover, div.pagination a:active {
+	border:1px solid #FFFFFF;
+	color: #FFFFFF;					/* proxima Pagina */
+	background-color: #666666;
+}
+div.pagination span.current {
+	padding: 2px 5px 2px 5px;
+	margin-right: 2px;
+	border: 1px solid #FFFFFF;
+	font-weight: bold;              /* Pagina corrente */
+	background-color: #666666;
+	color: #FFF;
+}
+div.pagination span.disabled {
+	padding: 2px 5px 2px 5px;
+	margin-right: 2px;
+	border: 1px solid #f3f3f3;
+	color: #ccc;
+}
+/* formata um link para simular um botao */
+.enlaceboton {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 10pt; PADDING-BOTTOM: 4px; COLOR: #666666; PADDING-TOP: 4px; FONT-FAMILY: verdana, arial, sans-serif; BACKGROUND-COLOR: #ffffcc; TEXT-DECORATION: none
+}
+.enlaceboton:link {
+	BORDER-RIGHT: #666666 2px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #666666 2px solid
+}
+.enlaceboton:visited {
+	BORDER-RIGHT: #666666 2px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #666666 2px solid
+}
+.enlaceboton:hover {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #666666 2px solid; BORDER-LEFT: #666666 2px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
